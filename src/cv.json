@@ -1,0 +1,185 @@
+{
+    "basics": {
+      "name": " Jose García Vera",
+      "label": "Administrador de Sistemas en Red",
+      "image": "/me.webp",
+      "email": "tamenis@outlook.com",
+      "phone": "+34 680708786",
+      "url": "",
+      "summary": "Recientemente completé un grado superior en Administración de Sistemas Informáticos en Red. Durante mis prácticas en un departamento de OT participé en la mejora y mantenimiento de la infraestructura tecnológica. Tengo experiencia en gestión de redes, administración de servidores y seguridad informática. Busco oportunidades para aplicar mis conocimientos y seguir desarrollándome en el campo de la tecnología.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "",
+        "countryCode": "ES",
+        "region": "España"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Jose García Vera",
+          "url": "https://linkedin.com/in/jose-garcía-vera"
+        },
+        {
+          "network": "GitHub",
+          "username": "tamenis",
+          "url": "https://github.com/tamenis"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Mahle Electronics",
+        "position": "Técnico de Sistemas OT",
+        "url": "https://www.mahle.com/en/",
+        "startDate": "2024-01-04",
+        "endDate": "2024-05-15",
+        "summary": "Redisenamos el sistema de trazabilidad y OEE con Node-red,InfluxDB y Grafana. Yo estuve implicado principalmente en el desarrollo de la base de datos con InfluxDB y la visualizacion de los datos en Grafana.",
+        "highlights": [
+          "Desarrollo de un sistema de trazabilidad y OEE"
+        ]
+      },
+      {
+        "name": "Mahle Electronics",
+        "position": "Técnico de Sistemas OT",
+        "url": "https://www.mahle.com/en/",
+        "startDate": "2024-01-04",
+        "endDate": "2024-05-15",
+        "summary": "Redisenamos el sistema de trazabilidad y OEE con Node-red,InfluxDB y Grafana. Yo estuve implicado principalmente en el desarrollo de la base de datos con InfluxDB y la visualizacion de los datos en Grafana.",
+        "highlights": [
+          "Desarrollo de un sistema de trazabilidad y OEE"
+        ]
+      }
+    ],
+    "education": [{
+      "institution": "GSD IS Buitrago",
+      "url": "https://www.gsdeducacion.com/Colegios/GsdBuitrago",
+      "area": "Administracion de Sistemas Informaticos en Red",
+      "studyType": "Grado Superior",
+      "startDate": "2021-01-01",
+      "endDate": "2023-01-01",
+      "courses": [
+      ]
+    }],
+    "certificates": [{
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }],
+    "publications": [{
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Medio",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Medio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Medio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Average"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "",
+      "reference": ""
+    }],
+    "projects": [
+      {
+        "name": "Rediseno trazabilidad y OEE",
+        "isActive": false,
+        "description": "Proyecto de trazabilidad con Node-red,InfluxDB y Grafana",
+        "highlights": [
+          "Pagina para anunciar viviendas modulares",
+          "Practicas de final de grado"
+        ],
+        "url": ""
+      },
+      {
+        "name": "ruART",
+        "isActive": true,
+        "description": "Pagina desarrollada con Astro, NodeJS y MongoDB",
+        "highlights": [
+          "Pagina para anunciar viviendas modulares",
+          "Trabajo de final de grado"
+        ],
+        "url": "https://ruart.netlify.app/"
+      }
+    ]
+  }

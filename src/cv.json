@@ -112,6 +112,13 @@
         "keywords": [
           "Control de Versiones", "Colaboración", "Código Fuente", "Git"
         ]
+      },
+      {
+        "name": "Administracion de redes",
+        "level": "Medio",
+        "keywords": [
+          "Protocolos de Internet","Virtualizacion"
+        ]
       }
     ],
     "languages": [

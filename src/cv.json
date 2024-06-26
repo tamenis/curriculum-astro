@@ -137,7 +137,7 @@
     }],
     "projects": [
       {
-        "name": "Rediseno trazabilidad y OEE",
+        "name": "Rediseño trazabilidad y OEE",
         "isActive": false,
         "description": "Proyecto de trazabilidad con Node-red,InfluxDB y Grafana",
         "highlights": [

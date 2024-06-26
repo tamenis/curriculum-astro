@@ -34,18 +34,7 @@
         "url": "https://www.mahle.com/en/",
         "startDate": "2024-01-04",
         "endDate": "2024-05-15",
-        "summary": "Redisenamos el sistema de trazabilidad y OEE con Node-red,InfluxDB y Grafana. Yo estuve implicado principalmente en el desarrollo de la base de datos con InfluxDB y la visualizacion de los datos en Grafana.",
-        "highlights": [
-          "Desarrollo de un sistema de trazabilidad y OEE"
-        ]
-      },
-      {
-        "name": "Mahle Electronics",
-        "position": "Técnico de Sistemas OT",
-        "url": "https://www.mahle.com/en/",
-        "startDate": "2024-01-04",
-        "endDate": "2024-05-15",
-        "summary": "Redisenamos el sistema de trazabilidad y OEE con Node-red,InfluxDB y Grafana. Yo estuve implicado principalmente en el desarrollo de la base de datos con InfluxDB y la visualizacion de los datos en Grafana.",
+        "summary": "Rediseñamos el sistema de trazabilidad y OEE con Node-red,InfluxDB y Grafana. Yo estuve implicado principalmente en el desarrollo de la base de datos con InfluxDB y la visualización de los datos en Grafana.",
         "highlights": [
           "Desarrollo de un sistema de trazabilidad y OEE"
         ]
@@ -54,7 +43,7 @@
     "education": [{
       "institution": "GSD IS Buitrago",
       "url": "https://www.gsdeducacion.com/Colegios/GsdBuitrago",
-      "area": "Administracion de Sistemas Informaticos en Red",
+      "area": "Administración de Sistemas Informaticos en Red",
       "studyType": "Grado Superior",
       "startDate": "2021-01-01",
       "endDate": "2023-01-01",
@@ -97,22 +86,8 @@
         ]
       },
       {
-        "name": "Tailwind",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "TypeScript",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-        ]
-      },
-      {
         "name": "Node",
-        "level": "Avanzado",
+        "level": "Medio",
         "keywords": [
           "Desarrollo Web", "Backend", "JavaScript", "Servidor"
         ]
@@ -126,14 +101,14 @@
       },
       {
         "name": "Git",
-        "level": "Avanzado",
+        "level": "Medio",
         "keywords": [
           "Control de Versiones", "Colaboración", "Código Fuente"
         ]
       },
       {
         "name": "GitHub",
-        "level": "Avanzado",
+        "level": "Medio",
         "keywords": [
           "Control de Versiones", "Colaboración", "Código Fuente", "Git"
         ]
@@ -150,7 +125,7 @@
       }
     ],
     "interests": [{
-      "name": "Wildlife",
+      "name": "Sintetizadores modulares",
       "keywords": [
         "Ferrets",
         "Unicorns"
@@ -166,7 +141,6 @@
         "isActive": false,
         "description": "Proyecto de trazabilidad con Node-red,InfluxDB y Grafana",
         "highlights": [
-          "Pagina para anunciar viviendas modulares",
           "Practicas de final de grado"
         ],
         "url": ""
@@ -174,9 +148,9 @@
       {
         "name": "ruART",
         "isActive": true,
-        "description": "Pagina desarrollada con Astro, NodeJS y MongoDB",
+        "description": "Página desarrollada con Astro, NodeJS y MongoDB",
         "highlights": [
-          "Pagina para anunciar viviendas modulares",
+          "Página para anunciar viviendas modulares",
           "Trabajo de final de grado"
         ],
         "url": "https://ruart.netlify.app/"
